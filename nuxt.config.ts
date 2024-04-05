@@ -19,7 +19,7 @@ export default defineNuxtConfig({
         options: { unstyled: true },
         importPT: {
           as: 'lara',
-          from: '@/assets/presets/lara/'  
+          from: 'assets/presets/lara'  
         }
     }
 
